@@ -1,0 +1,214 @@
+
+* {
+    margin: 0px;
+    padding: 5px;
+    box-sizing: border-box;
+    text-decoration: none;
+}  
+
+header {
+    width: 100%;
+    height: 125px;
+    background-color: #228B22;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+
+.logo-imagem {
+    
+    border-radius: 25px;
+
+}
+
+.container-logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-texto {
+    margin-left: 20px;
+    color: blue;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.menu li a{
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+.menu li a:hover{
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+#alho {
+    width: 185px;
+    height: 100px;
+    display:inline-block;
+    margin-left: 225px;
+    padding: 10px;
+    margin-top: 100px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#morango {
+    width: 185px;
+    height: 100px;
+    float:right;
+    padding: 20px;
+    margin-right: 90px;
+    margin-top: 100px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#nanica {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 175px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#tomate {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 175px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#ovos {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    float: right;
+    margin-right: 90px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#papaya {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    float: left;
+    margin-left: 225px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#melancia {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 175px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#couve {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    float: left;
+    margin-left: 225px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#cebola {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    float: right;
+    margin-right: 90px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#alface {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    margin-left: 225px;
+    display: inline-block;
+    font-size: larger;
+    font-style: italic;
+}
+
+#abacate {
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    float: right;
+    margin-right: 90px;
+    font-size: larger;
+    font-style: italic;
+}
+
+#atemoya{
+    width: 185px;
+    height: 100px;
+    padding: 20px;
+    float: right;
+    margin-right: 175px;
+    font-size: larger;
+    font-style: italic;
+}
+
+/* Google */
+
+.localizacao {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #F0FFF0;
+}
+
+/* Rodape */
+
+.footer2 {
+    width: 100%;
+    height: 175px;
+    padding: 10px;
+    background-color: #228B22;
+    border-radius: 10px;
+}
+
+.container li {
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    color: white
+}
+
+.container h2 {
+    text-transform: uppercase;
+}
+
+.container p {
+    text-transform: unset;
+}
+
+
+
+
+
